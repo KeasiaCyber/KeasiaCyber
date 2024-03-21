@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ke'Asia! </h1>
 
-<h2>👨‍💻 Cybersercurity Projects:</h2>
+<h2>👩‍💻 Cybersercurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main) *Currently Working On*
 - [Currently Searching For One!](https://github.com/KeasiaCyber/LABEL) *Currently Working On*
