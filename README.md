@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersercurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/KeasiaCyber/LABEL) *Currently Working On*
+- [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main) *Currently Working On*
 - [Currently Searching For One!](https://github.com/KeasiaCyber/LABEL) *Currently Working On*
 
 <h3>📄 Certifications: </h3>
