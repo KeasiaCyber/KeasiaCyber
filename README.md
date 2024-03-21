@@ -5,7 +5,7 @@
 - [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main) *Currently Working On*
 - [Currently Searching For One!](https://github.com/KeasiaCyber/LABEL) *Currently Working On*
 
-<h3>📄 Certifications: </h3>
+<h3>📜 Certifications: </h3>
 
 
 - [Google IT Support Professional] (Coming Soon)
