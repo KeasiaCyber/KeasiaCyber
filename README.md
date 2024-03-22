@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ke'Asia! </h1>
 
-<h2>👩‍💻 Cybersercurity Projects:</h2>
+<h2>👩‍💻 IT Home Lab Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main) *Currently Working On*
 - [Currently Searching For One!](https://github.com/KeasiaCyber/LABEL) *Currently Working On*
@@ -8,7 +8,7 @@
 <h3>📜 Certifications: </h3>
 
 
-- [Google Cybersecurity Professional Certificate] (Coming Soon)
+- Google Cybersecurity Professional Certificate (Coming Soon)
 - CompTIA Security+ SY0-701 (Coming Soon)
 
 <h4> 🔗 Connect with me:</h4>
