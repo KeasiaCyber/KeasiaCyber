@@ -7,7 +7,7 @@
 
 <h3>📜 Certifications: </h3>
 
-
+- CompTIA A+ (Coming Soon)
 - Google Cybersecurity Professional Certificate (Coming Soon)
 - CompTIA Security+ SY0-701 (Coming Soon)
 
