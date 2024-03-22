@@ -8,7 +8,7 @@
 <h3>📜 Certifications: </h3>
 
 
-- [Google IT Support Professional] (Coming Soon)
+- [Google Cybersecurity Support Professional] (Coming Soon)
 - CompTIA Security+ SY0-701 (Coming Soon)
 
 <h4> 🔗 Connect with me:</h4>
