@@ -3,7 +3,7 @@
 <h2>👩‍💻 IT Home Lab Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main) *Currently Working On*
-- [Linux Bash File System Permissions Examiner and Modifier Lab](https://github.com/KeasiaCyber/Manage_File_Permission_With_LinuxLab) *Currently Working On*
+- [Linux Bash File System Permissions Examiner and Modifier Lab](https://github.com/KeasiaCyber/Manage_File_Permission_With_LinuxLab) *Done*
 
 <h3>📜 Certifications: </h3>
 
