@@ -11,9 +11,6 @@
 - Google Cybersecurity Professional Certificate (Coming Soon)
 - CompTIA Security+ SY0-701 (Coming Soon)
 
-<h4> 🔗 Connect with me:</h4>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
