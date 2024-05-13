@@ -8,8 +8,8 @@
 <h3>📜 Certifications: </h3>
 
 
-- Google Cybersecurity Professional Certificate (Coming Soon)
-- CompTIA Security+ SY0-701 (Coming Soon)
+- Google Cybersecurity Professional Certificate *Done*
+- CompTIA Security+ SY0-601 (Coming Soon)
 
 
 
