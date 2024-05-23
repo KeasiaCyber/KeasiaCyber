@@ -8,7 +8,7 @@
 
 <h3>📜 Certifications: </h3>
 
-
+- Google IT Support Professional Certificate (Currently Working On)
 - Google Cybersecurity Professional Certificate *Done*
 - CompTIA Security+ SY0-601 (Coming Soon)
 
