@@ -10,7 +10,7 @@
 
 - CompTIA A+ (Currently Working On)
 - Google Cybersecurity Professional Certificate *Done*
-- CompTIA Security+ SY0-601 (Coming Soon)
+- CompTIA Security+ SY0-701 (Coming Soon)
 
 
 
