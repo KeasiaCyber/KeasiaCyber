@@ -5,7 +5,7 @@
 - [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main) *Done*
 - [Linux Bash File System Permissions Examiner and Modifier Lab](https://github.com/KeasiaCyber/Manage_File_Permission_With_LinuxLab) *Done*
 - [Apply Filters To SQL Queries](https://github.com/KeasiaCyber/SQL_Queries_Lab) *Done*
-- [Creating a Simple Netowork](https://github.com/KeasiaCyber/Creating-a-Simple-Network/blob/main/README.md) *Done*
+- [Creating a Simple Netowork](https://github.com/KeasiaCyber/Creating-a-Simple-Network/tree/main) *Done*
 
 <h3>📜 Certifications: </h3>
 
