@@ -1,11 +1,13 @@
-<h1>Hi, I'm Ke'Asia! </h1>
+<h1>Hi, I'm Ke'Asia!, An IT Professional </h1>
 
-<h2>👩‍💻 IT Home Lab Projects:</h2>
+<h2>👩‍💻 IT Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main) *Done*
-- [Linux Bash File System Permissions Examiner and Modifier Lab](https://github.com/KeasiaCyber/Manage_File_Permission_With_LinuxLab) *Done*
-- [Apply Filters To SQL Queries](https://github.com/KeasiaCyber/SQL_Queries_Lab) *Done*
-- [Creating a Simple Netowork](https://github.com/KeasiaCyber/Creating-a-Simple-Network/tree/main) *Done*
+
+- <b> Outside Of The Box Projects</b>
+  - [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main) *Done*
+  - [Linux Bash File System Permissions Examiner and Modifier Lab](https://github.com/KeasiaCyber/Manage_File_Permission_With_LinuxLab) *Done*
+  - [Apply Filters To SQL Queries](https://github.com/KeasiaCyber/SQL_Queries_Lab) *Done*
+  - [Creating a Simple Netowork](https://github.com/KeasiaCyber/Creating-a-Simple-Network/tree/main) *Done*
 
 <h3>📜 Certifications: </h3>
 
