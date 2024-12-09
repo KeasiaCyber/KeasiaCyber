@@ -5,7 +5,7 @@
 - <b> osTicket (Help Desk Ticketing System)</b>
   - [*Coming Soon*]
 - <b> Microsoft Azure</b>
-  - [Creating Microsoft Azure Subscriptions]()
+  - [Creating Microsoft Azure Subscriptions](https://github.com/KeasiaCyber/creating-microsoft-azure-subscriptions)
 
 - <b> Outside Of The Box Projects</b>
   - [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main) *Done*
