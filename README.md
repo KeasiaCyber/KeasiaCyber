@@ -7,7 +7,7 @@
 - <b> Microsoft Azure</b>
   - [Creating Microsoft Azure Subscriptions](https://github.com/KeasiaCyber/creating-microsoft-azure-subscriptions)
   - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/KeasiaCyber/Network-Security-Groups--NSGs--and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
-  - [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main) *Done*
+  - [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main)
 
 - <b> More Important Projects</b>
   - [Linux Bash File System Permissions Examiner and Modifier Lab](https://github.com/KeasiaCyber/Manage_File_Permission_With_LinuxLab)
