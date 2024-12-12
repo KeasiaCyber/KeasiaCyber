@@ -7,7 +7,7 @@
 - <b> Microsoft Azure</b>
   - [Creating Microsoft Azure Subscriptions](https://github.com/KeasiaCyber/creating-microsoft-azure-subscriptions)
 
-- <b> Outside Of The Box Projects</b>
+- <b> More Important Projects</b>
   - [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main) *Done*
   - [Linux Bash File System Permissions Examiner and Modifier Lab](https://github.com/KeasiaCyber/Manage_File_Permission_With_LinuxLab) *Done*
   - [Apply Filters To SQL Queries](https://github.com/KeasiaCyber/SQL_Queries_Lab) *Done*
