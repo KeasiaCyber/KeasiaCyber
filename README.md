@@ -5,7 +5,7 @@
 - <b> osTicket (Help Desk Ticketing System)</b>
   - [*Coming Soon*]
 - <b> Microsoft Azure</b>
-  - [Creating Microsoft Azure Subscriptions](https://github.com/KeasiaCyber/creating-microsoft-azure-subscriptions)
+  - [Creating Microsoft Azure Subscriptions](https://github.com/KeasiaCyber/creating-microsoft-azure-work-enivorment)
   - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/KeasiaCyber/Network-Security-Groups--NSGs--and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
   - [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main)
 
