@@ -3,7 +3,9 @@
 <h2>👩‍💻 IT Projects:</h2>
 
 - <b> osTicket (Help Desk Ticketing System)</b>
-  - [*Coming Soon*]
+  - [osTicket:Prerequisites and Installation](https://github.com/KeasiaCyber/osTicket-Installation)
+  - [osTicket:Post-Installation Configuration](https://github.com/KeasiaCyber/osTicket-Post-Installation)
+  - [osTicket:Ticket Lifecycle Examples](https://github.com/KeasiaCyber/Life-Cycle-example)*Currently Working On*
 - <b> Microsoft Azure</b>
   - [Creating Microsoft Azure Environment](https://github.com/KeasiaCyber/creating-microsoft-azure-work-enivorment)
   - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/KeasiaCyber/Network-Security-Groups--NSGs--and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
