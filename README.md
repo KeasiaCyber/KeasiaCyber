@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ke'Asia!, An IT Professional </h1>
+<h1>Hi, I'm Ke'Asia!, An IT Professional 🌌 </h1>
 
 <h2>👩‍💻 IT Projects:</h2>
 
