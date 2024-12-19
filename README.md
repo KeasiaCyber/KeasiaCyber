@@ -10,6 +10,7 @@
   - [Creating Microsoft Azure Environment](https://github.com/KeasiaCyber/creating-microsoft-azure-work-enivorment)
   - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/KeasiaCyber/Network-Security-Groups--NSGs--and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
   - [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main)
+  - [Configuring DNS with A domain controller ](https://github.com/KeasiaCyber/dns-config)
 
 - <b> More Important Projects</b>
   - [Linux Bash File System Permissions Examiner and Modifier Lab](https://github.com/KeasiaCyber/Manage_File_Permission_With_LinuxLab)
