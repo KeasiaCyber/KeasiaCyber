@@ -20,8 +20,8 @@
 <h3>📜 Certifications: </h3>
 
 - CompTIA A+ (Currently Working On)
-- Google Cybersecurity Professional Certificate *Done*
-- CompTIA Security+ SY0-601 *Done*
+- Google Cybersecurity Professional Certificate
+- CompTIA Security+ SY0-601
 
 
 
