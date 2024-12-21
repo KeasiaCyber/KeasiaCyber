@@ -11,6 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/KeasiaCyber/Network-Security-Groups--NSGs--and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
   - [Active Directory Home Lab](https://github.com/KeasiaCyber/ActiveDirectoryLab/tree/main)
   - [Configuring DNS with A domain controller ](https://github.com/KeasiaCyber/dns-config)
+  - [Network Files Shares and Permissions Lab](https://github.com/KeasiaCyber/Network-Files-Shares-and-Permissions-Lab)
 
 - <b> More Important Projects</b>
   - [Linux Bash File System Permissions Examiner and Modifier Lab](https://github.com/KeasiaCyber/Manage_File_Permission_With_LinuxLab)
