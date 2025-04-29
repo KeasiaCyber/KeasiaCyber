@@ -22,7 +22,7 @@
 
 - CompTIA A+ (Currently Working On)
 - Google Cybersecurity Professional Certificate
-- CompTIA Security+ SY0-601
+- CompTIA Security+
 
 
 
