@@ -20,7 +20,7 @@
 
 <h3>📜 Certifications: </h3>
 
-- CompTIA A+ (Currently Working On)
+- CCST Network Technican (Currently working on)
 - Google Cybersecurity Professional Certificate
 - CompTIA Security+
 
